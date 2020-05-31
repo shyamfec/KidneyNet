@@ -1,2 +1,2 @@
 # KidneyNet
-Nucklei Segemnation of Kidney Histopathology images
+Nuclei Segemnation of Kidney Histopathology images
